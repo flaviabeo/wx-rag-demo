@@ -1,0 +1,12 @@
+structure:
+- Is there a table containing customer data?
+- what are the columns of the first table in business friendly terms ?
+- how to query data in the first table (minimum 3 query examples) ?
+
+data:
+- list all data related to 3 customers having their key greater than 100?
+- count the number of orders per customer marketing segment
+- count the number of orders and sum the order prices per customer marketing segment
+- what is the average account balance of customers having their key greater than 0?
+- What is the total price of orders placed by customers having account balance lower than 100 ?
+- what is the latest total price of orders ?
